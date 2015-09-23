@@ -5,19 +5,20 @@
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
     <title>Device Infomation Setting</title>
     <style>
-      body {
-        border: 1px solid black;
+      p#label {
+        color: red;
       }
     </style>
     <!-- Inline scripts are forbidden in Firefox OS apps (CSP restrictions),
          so we use a script file. -->
-    <script src="js/app.js" defer></script>
+    <script src="js/custom.js" ></script>
+    <script src="js/startup.js"></script>
 
   </head>
 
   <body>
     <!-- This code is in the public domain. Enjoy! -->
-    <h1>Hello World</h1>
+    <p id="label">Hello World</p>
   </body>
 
 </html>
