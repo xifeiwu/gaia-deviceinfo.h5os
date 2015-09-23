@@ -4,6 +4,7 @@ window.addEventListener("load", function() {
 
 window.addEventListener('keydown', function(evt) {
   var elem = evt.target;
+  console.log(evt);
   // handle range input
   if ((evt.keyCode === KeyEvent.DOM_VK_UP ||
        evt.keyCode === KeyEvent.DOM_VK_DOWN) &&
