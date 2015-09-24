@@ -1,0 +1,15 @@
+{
+  "name": "icc_helper",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/icc_helper",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "icc_helper.js"
+}

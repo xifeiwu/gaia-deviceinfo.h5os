@@ -1,0 +1,15 @@
+{
+  "name": "fxa_iac_client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alivedise/fxa_iac_client",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "fxa_iac_client.js"
+}

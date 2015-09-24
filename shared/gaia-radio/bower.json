@@ -1,0 +1,23 @@
+{
+  "name": "gaia-radio",
+  "version": "0.0.1",
+  "homepage": "https://github.com/git@git.seinlin.info:gaia-components/gaia-radio.git#~0.0.1",
+  "authors": [
+    "Wilson Page <wilsonpage@me.com>"
+  ],
+  "main": "script.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "examples",
+    "test",
+    "tests",
+    "README.md"
+  ],
+  "dependencies": {
+    "gaia-icons": "git@git.acadine.com:gaia-components/gaia-icons.git#~0.0.2",
+    "gaia-component": "git@git.acadine.com:gaia-components/gaia-component.git#~0.0.2"
+  }
+}

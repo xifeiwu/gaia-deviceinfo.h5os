@@ -1,0 +1,15 @@
+{
+  "name": "unit_test_mocks",
+  "version": "0.0.2",
+  "homepage": "https://github.com/alivedise/unit_test_mocks",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "unit_test_mocks.js"
+}

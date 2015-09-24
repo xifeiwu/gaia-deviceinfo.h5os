@@ -1,0 +1,15 @@
+{
+  "name": "load_body_html_helper",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/load_body_html_helper",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "load_body_html_helper.js"
+}

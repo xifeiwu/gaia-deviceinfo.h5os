@@ -1,0 +1,19 @@
+{
+  "name": "h5-tabs",
+  "version": "0.0.3",
+  "authors": [
+    "PYChen <mmm198219@gmail.com>"
+  ],
+  "main": "script.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gaia-icons": "git@git.acadine.com:gaia-components/gaia-icons.git#~0.0.1"
+  }
+}

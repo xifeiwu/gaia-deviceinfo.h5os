@@ -1,0 +1,15 @@
+{
+  "name": "config",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alivedise/config",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "config.js"
+}

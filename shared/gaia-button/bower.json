@@ -1,0 +1,29 @@
+{
+  "name": "gaia-button",
+  "version": "0.0.1",
+  "main": "gaia-button.js",
+  "homepage": "https://github.com/git@git.seinlin.info:gaia-components/gaia-button.git#~0.0.1",
+  "authors": [
+    "cyee@mozilla.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.html",
+    "package.json",
+    "README.md"
+  ],
+  "devDependencies": {
+    "base": "git@git.acadine.com:gaia-components/base.git#~0.0.1",
+    "gaia-fonts": "git@git.acadine.com:gaia-components/gaia-fonts.git#~0.0.2",
+    "gaia-icons": "git@git.acadine.com:gaia-components/gaia-icons.git#~0.0.2",
+    "gaia-theme": "git@git.acadine.com:gaia-components/gaia-theme.git#~0.0.2"
+  },
+  "dependencies": {
+    "gaia-component": "git@git.acadine.com:gaia-components/gaia-component.git#~0.0.2"
+  }
+}

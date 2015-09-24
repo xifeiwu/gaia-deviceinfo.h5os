@@ -1,0 +1,20 @@
+{
+  "name": "navigation_manager",
+  "main": "navigation_manager.js",
+  "version": "0.0.1",
+  "authors": [
+    "Sung Chiu <sean2449@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example"
+  ],
+  "dependencies": {
+    "evt": "git@git.acadine.com:gaia-components/evt.git#~0.0.1"
+  }
+}

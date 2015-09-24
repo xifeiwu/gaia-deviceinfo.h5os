@@ -1,0 +1,15 @@
+{
+  "name": "input_mgmt",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/input_mgmt",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "input_mgmt.js"
+}

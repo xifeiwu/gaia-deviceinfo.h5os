@@ -1,0 +1,15 @@
+{
+  "name": "async_storage",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/async_storage",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "async_storage.js"
+}

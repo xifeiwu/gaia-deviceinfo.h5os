@@ -1,0 +1,21 @@
+{
+  "name": "simple_key_navigator",
+  "version": "0.1.1",
+  "description": "An easy way to manage key navigation",
+  "authors": [
+    "Arthur Chen <arthur.chen@acadine.com>",
+    "Tzu-Lin Huang <dwi2@dwi2.com>"
+  ],
+  "private": "true",
+  "main": "dist/umd/simple_key_navigator.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulpfile.js",
+    "karma.conf.js"
+  ]
+}

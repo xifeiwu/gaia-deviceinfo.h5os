@@ -1,0 +1,29 @@
+{
+  "name": "gaia-checkbox",
+  "version": "0.0.1",
+  "homepage": "https://github.com/git@git.seinlin.info:gaia-components/gaia-checkbox.git#~0.0.1",
+  "authors": [
+    "Wilson Page <wilsonpage@me.com>"
+  ],
+  "main": "gaia-checkbox.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.html",
+    "package.json",
+    "README.md"
+  ],
+  "devDependencies": {
+    "base": "git@git.acadine.com:gaia-components/base.git#~0.0.1",
+    "gaia-fonts": "git@git.acadine.com:gaia-components/gaia-fonts.git#~0.0.2",
+    "gaia-theme": "git@git.acadine.com:gaia-components/gaia-theme.git#~0.0.2"
+  },
+  "dependencies": {
+    "gaia-icons": "git@git.acadine.com:gaia-components/gaia-icons.git#~0.0.2",
+    "gaia-component": "git@git.acadine.com:gaia-components/gaia-component.git#~0.0.2"
+  }
+}

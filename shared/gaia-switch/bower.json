@@ -1,0 +1,30 @@
+{
+  "name": "gaia-switch",
+  "version": "0.0.3",
+  "homepage": "https://github.com/git@git.seinlin.info:gaia-components/gaia-switch.git#~0.0.1",
+  "authors": [
+    "Wilson Page <wilsonpage@me.com>"
+  ],
+  "main": "gaia-switch.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.html",
+    "package.json",
+    "README.md"
+  ],
+  "devDependencies": {
+    "base": "git@git.acadine.com:gaia-components/base.git#~0.0.1",
+    "gaia-fonts": "git@git.acadine.com:gaia-components/gaia-fonts.git#~0.0.2",
+    "gaia-list": "git@git.acadine.com:gaia-components/gaia-list.git#~0.0.2",
+    "gaia-theme": "git@git.acadine.com:gaia-components/gaia-theme.git#~0.0.2"
+  },
+  "dependencies": {
+    "drag": "git@git.acadine.com:gaia-components/drag.git#~0.0.2",
+    "gaia-component": "git@git.acadine.com:gaia-components/gaia-component.git#~0.0.2"
+  }
+}

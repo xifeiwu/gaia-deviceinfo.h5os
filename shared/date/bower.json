@@ -1,0 +1,15 @@
+{
+  "name": "date",
+  "version": "0.0.2",
+  "homepage": "https://github.com/alivedise/date",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "date.en-US.properties"
+}

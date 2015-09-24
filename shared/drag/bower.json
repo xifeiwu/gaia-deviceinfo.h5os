@@ -1,0 +1,20 @@
+{
+  "name": "drag",
+  "main": "drag.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/git@git.seinlin.info:gaia-components/drag.git#~0.0.1",
+  "authors": [
+    "Wilson Page <wilsonpage@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "evt": "git@git.acadine.com:gaia-components/evt.git#~0.0.1"
+  }
+}

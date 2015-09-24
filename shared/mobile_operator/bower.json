@@ -1,0 +1,15 @@
+{
+  "name": "mobile_operator",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/mobile_operator",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "mobile_operator.js"
+}

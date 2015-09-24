@@ -1,0 +1,19 @@
+{
+  "name": "h5-tabs-view",
+  "version": "0.0.1",
+  "authors": [
+    "PYChen <mmm198219@gmail.com>"
+  ],
+  "main": "script.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "h5-tabs": "git@git.acadine.com:gaia-components/h5-tabs.git#~0.0.2"
+  }
+}

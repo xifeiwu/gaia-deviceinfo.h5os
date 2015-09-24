@@ -1,0 +1,15 @@
+{
+  "name": "language_list",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/language_list",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "language_list.js"
+}

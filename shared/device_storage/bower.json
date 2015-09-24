@@ -1,0 +1,15 @@
+{
+  "name": "device_storage",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alivedise/device_storage",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "device_storage.js"
+}

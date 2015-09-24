@@ -1,0 +1,29 @@
+{
+  "name": "h5-option-menu",
+  "version": "0.1.1",
+  "authors": [
+    "PYChen <mmm198219@gmail.com>",
+    "Tzu-Lin Huang <dwi2@dwi2.com>"
+  ],
+  "main": "script.js",
+  "license": "MIT",
+  "homepage": "git.acadine.com/gaia-components/h5-option-menu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "src",
+    "gulpfile.js",
+    "karma.conf.js"
+  ],
+  "dependencies": {
+    "evt": "git@git.acadine.com:gaia-components/evt.git#0.0.1",
+    "simple_key_navigator": "git@git.acadine.com:shared/simple_key_navigator.git#0.1.1"
+  },
+  "devDependencies": {
+    "soft_keys_helper": "git@git.acadine.com:shared/soft_keys_helper.git#0.2.0"
+  }
+}

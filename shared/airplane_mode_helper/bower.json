@@ -1,0 +1,15 @@
+{
+  "name": "airplane_mode_helper",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/airplane_mode_helper",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "airplane_mode_helper.js"
+}

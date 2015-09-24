@@ -1,0 +1,15 @@
+{
+  "name": "input_areas",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/input_areas",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "input_areas.js"
+}

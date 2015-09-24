@@ -1,0 +1,15 @@
+{
+  "name": "screen_layout",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/screen_layout",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "screen_layout.js"
+}

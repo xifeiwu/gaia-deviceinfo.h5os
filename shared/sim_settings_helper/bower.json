@@ -1,0 +1,15 @@
+{
+  "name": "sim_settings_helper",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/sim_settings_helper",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "sim_settings_helper.js"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "l10n_date",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/l10n_date",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "l10n_date.js"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bluetooth_helper",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alivedise/bluetooth_helper",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "bluetooth_helper.js"
+}

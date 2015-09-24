@@ -1,0 +1,15 @@
+{
+  "name": "soft_keys_helper",
+  "version": "0.2.2",
+  "homepage": "https://git.acadine.com/shared/soft_keys_helper",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "shared"
+  ],
+  "main": "soft_keys_helper.js"
+}
